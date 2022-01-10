@@ -6,4 +6,4 @@ Clone과 Pull 학습
 
 # Pull
 Remote Repo. 의 최신 변경 내용들을
-나의 Local Repo.로 업데이트하기
+나의 Local Repo.로 업데이트하기12
